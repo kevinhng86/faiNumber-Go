@@ -157,7 +157,7 @@ var int32ToDecTests = []int32ToStringTest{
 	{197 ,"197"},
 	{198 ,"198"},
 	{199 ,"199"},
-	/* Test to see if fnDualDigitMap working correctly Start */
+	/* Test to see if fnDualDigitMap working correctly End */
 	{-9 ,"-9"},
 	{-76 ,"-76"},
 	{-100 ,"-100"},
